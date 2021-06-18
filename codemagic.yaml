@@ -1,4 +1,4 @@
-Native Android project
+#Native Android project
 workflows:
     android-app: # workflow ID
         name: Android app # workflow name
